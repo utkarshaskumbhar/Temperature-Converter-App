@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="textResult" type="id" />
+    <item name="textResultType" type="id" />
+    <item name="textresult" type="id" />
+</resources>
